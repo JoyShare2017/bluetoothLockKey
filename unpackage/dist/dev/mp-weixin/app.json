@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/recordRavInfo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "plugins": {
+    "BLELockSDK": {
+      "version": "1.10.0",
+      "provider": "wxd114a381b75d71fd"
+    }
+  },
+  "permission": {},
+  "usingComponents": {},
+  "sitemapLocation": "sitemap87.json"
+}
